@@ -1,0 +1,4 @@
+tmp/
+build-errors.log
+.env
+todo-api
